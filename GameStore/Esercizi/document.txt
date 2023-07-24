@@ -1,0 +1,6 @@
+Implementa una funzionalità di riposo del gioco, in modo che il giocatore possa fare una nuova ipotesi! Ecco come:
+
+1. Selezionare l'elemento con la classe "again" e allegare un gestore di eventi click
+2. Nella funzione gestore, ripristinare i valori iniziali delle variabili score e secretNumber
+3. Ripristinare le condizioni iniziali del campo di inserimento messaggio, numero, punteggio e ipotesi
+4. Ripristina anche il colore di sfondo originale (#222) e la larghezza del numero (15rem)
